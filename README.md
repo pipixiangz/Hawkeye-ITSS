@@ -5,14 +5,4 @@ Specifically, we utilize an RGB-D camera for multi-object and multi-view detecti
 
 
 Our tested various training strategy to ensure the efficiency and reliability of the proposed system. Initial results reveal substantial enhancements in situational awareness and decision-making in real-time traffic environments, thereby establishing the AR eyewear as a promising solution for safer and smarter cycling experiences.
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/1.jpg
-
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/2.jpg
-
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/3.jpg
-
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/4.jpg
-
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/5.jpg
-
-https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/6.jpg
+-[img] (https://github.com/pipixiangz/Hawkeye-ITSS/blob/main/imgs/1.jpg)
