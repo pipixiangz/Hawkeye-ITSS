@@ -1,0 +1,20 @@
+# Base
+numpy
+pandas
+
+# Model
+torch
+torchvision
+opencv-python
+lap
+
+# YOLO
+ultralytics
+dill
+pillow
+
+# Utils
+rich
+psutil
+
+# Model Export
